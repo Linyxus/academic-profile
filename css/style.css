@@ -76,12 +76,12 @@ body {
 }
 
 .ultrabold {
-    font-weight: bolder;
+    font-weight    : bolder;
     text-decoration: underline;
 }
 
 .gh-repo {
-    font-size: 1em;
+    font-size  : 1em;
     line-height: 200%;
 }
 
@@ -91,4 +91,8 @@ body {
 
 .project-desc {
     margin-top: -1em;
+}
+
+#clustermaps {
+    display: none;
 }

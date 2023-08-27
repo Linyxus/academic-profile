@@ -96,3 +96,8 @@ body {
 #clustrmaps-widget-v2 {
     display: none;
 }
+
+.education-pretitle {
+    margin-bottom: -1em;
+    font-size: 0.8em;
+}

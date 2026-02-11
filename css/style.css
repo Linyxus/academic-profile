@@ -75,6 +75,17 @@ body {
     background-size: 4px 3px;
 }
 
+.chinese-name {
+    font-size: 0.55em;
+    color: #888;
+    font-weight: 300;
+    letter-spacing: 0.15em;
+    margin-left: 0.3em;
+    vertical-align: middle;
+    display: inline-block;
+    white-space: nowrap;
+}
+
 .ultrabold {
     font-weight    : bolder;
     text-decoration: underline;
